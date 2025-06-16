@@ -43,7 +43,7 @@ NEXT_PUBLIC_API_URL=http://<IP_DEL_SERVIDOR>:5000
 
 ## 3. Ejecución del Despliegue
 
-Desde la raíz del proyecto (`/Practicapp`), ejecute el siguiente comando para construir y lanzar los contenedores:
+Desde la raíz del proyecto (`/bitacora-infor`), ejecute el siguiente comando para construir y lanzar los contenedores:
 
 ```bash
 docker compose up --build -d
