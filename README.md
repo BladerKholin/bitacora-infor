@@ -1,5 +1,4 @@
 # Bitacora INFOR
-Perfecto. A continuación te dejo el contenido en formato Markdown (`deploy-instructions.md`), considerando que el archivo del frontend es `.env.production`:
 
 # 🛠️ Instructivo de Despliegue — **bitacora-infor**
 
